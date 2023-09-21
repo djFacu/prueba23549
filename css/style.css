@@ -8,3 +8,8 @@ h1 {
 img {
    width: 50px;
 }
+
+p {
+   font-weight: bold;
+   font-size: 4em;
+}
