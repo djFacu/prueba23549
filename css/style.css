@@ -2,4 +2,9 @@ h1 {
    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
    color: aliceblue;
    background-color: blue;
+   display: inline-block;
+}
+
+img {
+   width: 50px;
 }
